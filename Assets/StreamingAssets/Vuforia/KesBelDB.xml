@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="DenemeQR" size="1.000000 1.000000" />
+    <ImageTarget name="VaniMehmet" size="1.000000 1.000000" />
+    <ImageTarget name="SaitabatSelalesi" size="1.000000 1.000000" />
+    <ImageTarget name="NarlidereSelalesi" size="1.000000 1.000000" />
+    <ImageTarget name="NaimSuleymanoglu" size="1.000000 1.000000" />
+    <ImageTarget name="MuhsinYazici" size="1.000000 1.000000" />
+    <ImageTarget name="KureklidereSelalesi" size="1.000000 1.000000" />
+    <ImageTarget name="KulturSanat" size="1.000000 1.000000" />
+    <ImageTarget name="Kazanci" size="1.000000 1.000000" />
+    <ImageTarget name="Kale" size="1.000000 1.000000" />
+    <ImageTarget name="IlceStad" size="1.000000 1.000000" />
+    <ImageTarget name="Golbasi" size="1.000000 1.000000" />
+    <ImageTarget name="BuzPateni" size="1.000000 1.000000" />
+    <ImageTarget name="Botanik" size="1.000000 1.000000" />
+    <ImageTarget name="Barakfakih" size="1.000000 1.000000" />
+    <ImageTarget name="Babasultan" size="1.000000 1.000000" />
+    <ImageTarget name="AlacamSelalesi" size="1.000000 1.000000" />
+    <ImageTarget name="Aksu" size="1.000000 1.000000" />
+    <ImageTarget name="AkGuvercinlik" size="1.000000 1.000000" />
+    <ImageTarget name="AileParki" size="1.000000 1.000000" />
+    <ImageTarget name="15Temmuz" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
