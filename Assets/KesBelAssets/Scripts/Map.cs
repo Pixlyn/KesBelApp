@@ -25,7 +25,7 @@ using System;
 
 public class Map : MonoBehaviour
 {
-    private string apiKey = "AIzaSyCNXmp5BWKof0mh7c_8zMxP2PGmp_MrOAw"; //API Key yazılacak.
+    private string apiKey = ""; //API Key yazılacak.
     public float lat = 40.20097f;                                      //Latitude - Enlem
     public float lon = 29.21309f;                                      //Longtitude - Boylam
     public int zoom = 16;                                              //Harita Yakınlaştırması
@@ -48,7 +48,7 @@ public class Map : MonoBehaviour
     private bool updateMap = true;                                      //Haritayı güncellemek için bool
 
 
-    // Start is called before the first frame update AIzaSyCNXmp5BWKof0mh7c_8zMxP2PGmp_MrOAw
+    // Start is called before the first frame update 
     void Start()
     {
         StartCoroutine(GetGoogleMap());
